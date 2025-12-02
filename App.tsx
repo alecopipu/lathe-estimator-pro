@@ -159,7 +159,7 @@ const App: React.FC = () => {
               {/* SOHWA Official Logo Image */}
               <div className="h-10 w-auto flex-shrink-0 transition-transform duration-300 group-hover:scale-105">
                 <img
-                  src="https://raw.githubusercontent.com/alexkuo-arch/lathe-estimator-pro/39554f77446dc936a4d40d8b41ef32a7e8cdefbd/sohwa_logo.png"
+                  src="https://raw.githubusercontent.com/alecopipu/lathe-estimator-pro/refs/heads/main/sohwa_logo.png"
                   alt="SOHWA Logo"
                   className="h-full w-auto object-contain"
                 />
